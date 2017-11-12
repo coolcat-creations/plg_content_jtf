@@ -4,9 +4,7 @@
 <!--
 <form>
 -->
-	<fieldset gridlabel="span3"
-	          gridfield="span9"
-	          description="JTF_FIELDSET_DEFAULT_DESC"
+	<fieldset description="JTF_FIELDSET_DEFAULT_DESC"
 	          label="JTF_FIELDSET_DEFAULT_LABEL"
 	>
 
